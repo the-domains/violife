@@ -1,0 +1,28 @@
+name: Violife
+favicon: null
+layout_spectrum: 0.9334565929602832
+typography_spectrum: 0.22325732791796327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7320681277196854
+  lightness: 0.9153926798608154
+  saturation: 0.12585049960762262
+  rhythmicContrast: 0.7155589975882322
+purpose: []
